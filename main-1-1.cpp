@@ -9,7 +9,7 @@ int main (){
 
 int size = 5;
 double mini = 0;
-double array [size] = {2,6,10,12,5};
+double array [size] = {6,10,12,5,-1};
 
 mini = arrayMin(array, size);
 
